@@ -57,3 +57,15 @@
 lambda x: x**2;
 # Enclosing function looks
 name = 'This is a global name';
+
+# myList = [1,2,3]
+# myList.append(4);
+# print( myList );
+
+# 
+class Dog():
+    def __init__(self, breed):
+        self.breed = breed;
+
+myDog = Dog( 'asdas' );
+print( myDog.breed );

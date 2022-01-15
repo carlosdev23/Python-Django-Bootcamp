@@ -1,1 +1,2 @@
-# Python-and-Django-Full-Stack-Web-Developer-Bootcamp
+# Django-Python-Full-Stack-Web-Developer
+Notes and files for the Python full stack developer course!
