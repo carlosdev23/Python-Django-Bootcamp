@@ -1,3 +1,4 @@
+# conda create --name MyDjangoEnv python=3.9
 # String:
 # x = "Item one: {y} Item Two: {x}".format(x="dog", y="cat"); 
 # print( x )
